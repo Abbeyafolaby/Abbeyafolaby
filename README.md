@@ -4,7 +4,7 @@ Hi 👋 My name is Abiodun Afolabi
 Frontend Web Developer
 ----------------------
 
-I love building new projects and contributing to opensource projects.
+I love building new projects and contributing to open source projects.
 
 * 🌍  I'm based in Abuja, Nigeria.
 * 🖥️  See my portfolio at [Abbey](http://afolabiabiodun.netlify.app/)
