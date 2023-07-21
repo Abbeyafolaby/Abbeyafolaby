@@ -10,7 +10,7 @@
 ## <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="https://afolabiabiodun.netlify.app/">
     <img src="https://skillicons.dev/icons?i=js,typescript,react,next,tailwind,mongodb,express,nodejs,mysql" />
   </a>
 </p>
