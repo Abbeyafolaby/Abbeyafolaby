@@ -7,7 +7,7 @@
 <a href="https://afolabiabiodun.netlify.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=rubocop&logoColor=white" alt="My Portfolio"/></a>
 
-## <p align="center">Technical Skills</p>
+## <p align="center" width="70%">Technical Skills</p>
 
 <p align="center">
   <a href="https://afolabiabiodun.netlify.app/">
@@ -15,7 +15,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="https://afolabiabiodun.netlify.app/">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jest,git,github,firebase,vite,figma" />
   </a>
 </p>
