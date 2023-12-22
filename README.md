@@ -1,6 +1,6 @@
 <!-- Abiodun welcome gif -->
 <div align="center">
-<img src='https://ufqlxkjzctbemmgoaeuy.supabase.co/storage/v1/object/public/abbeyafolaby/abbey.gif?t=2023-12-22T13%3A48%3A38.476Z' width="100%" height="250" />
+<img src='https://ufqlxkjzctbemmgoaeuy.supabase.co/storage/v1/object/public/abbeyafolaby/abbey.gif?t=2023-12-22T13%3A48%3A38.476Z' width="100%" height="300" />
 </div>
 
 <br/>
