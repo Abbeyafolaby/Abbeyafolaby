@@ -1,10 +1,3 @@
-<!-- Abiodun welcome gif -->
-<div align="center">
-<img src='https://ufqlxkjzctbemmgoaeuy.supabase.co/storage/v1/object/public/abbeyafolaby/abbey.gif?t=2023-12-22T13%3A48%3A38.476Z' width="90%" height="300" />
-</div>
-
-<br/>
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Afolab_y)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abiodun-afolabi-a0709324a)
 
